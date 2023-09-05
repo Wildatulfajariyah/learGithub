@@ -3,7 +3,7 @@ package com.wilda.learngithub;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+int= 1;
 public class MainActivity extends AppCompatActivity {
 
     @Override
