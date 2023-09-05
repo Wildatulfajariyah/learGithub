@@ -3,7 +3,7 @@ package com.wilda.learngithub;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-int= 1;
+int = 12;
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -11,4 +11,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
 }
